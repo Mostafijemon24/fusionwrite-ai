@@ -425,4 +425,4 @@ Special thanks to our contributors and the WordPress community.
 
 **Made with ❤️ for WordPress creators**
 
-For more information, visit [FusionWrite AI Official Website](https://fusionwrite-ai.com)
+For more information, visit [FusionWrite AI Official Website](https://wordpress.org/plugins/fusionwrite-ai/)
